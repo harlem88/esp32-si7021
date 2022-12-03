@@ -2,3 +2,7 @@ build
 sdkconfig
 sdkconfig.old
 doc/out
+
+.idea/
+examples/sensor_app/cmake-build-debug-xtensa/
+examples/sensor_app/dependencies.lock
